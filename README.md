@@ -21,5 +21,10 @@ VERSION or DATE: SUMMER 2023
 USER INSTRUCTIONS:
 
 You can easily run my codes using any Python IDE and hitting the run button or by installing python on your system and using the command python [name of file].py
+*Note that you will also need to install the specific libraries im using. Here are the commands for every library you will need :
+- pip install Rtree
+- pip install intervaltree
+- pip install matplotlib
+- pip install numpy
 
 Thank you for your time!
